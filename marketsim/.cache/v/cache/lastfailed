@@ -1,0 +1,16 @@
+{
+  "grade_marketsim.py::test_marketsim[Orders 1-01-basic-inputs0-outputs0]": true, 
+  "grade_marketsim.py::test_marketsim[Orders 10 (modified)-basic-inputs9-outputs9]": true, 
+  "grade_marketsim.py::test_marketsim[Orders 11 - Leveraged SELL (modified)-commission-inputs10-outputs10]": true, 
+  "grade_marketsim.py::test_marketsim[Orders 11 - Leveraged SELL (modified)-leverage-inputs10-outputs10]": true, 
+  "grade_marketsim.py::test_marketsim[Orders 12 - Leveraged BUY (modified)-leverage-inputs11-outputs11]": true, 
+  "grade_marketsim.py::test_marketsim[Orders 7 (modified)-basic-inputs6-outputs6]": true, 
+  "grade_marketsim.py::test_marketsim[Orders 8 (modified)-basic-inputs7-outputs7]": true, 
+  "grade_marketsim.py::test_marketsim[Orders 9 (modified)-basic-inputs8-outputs8]": true, 
+  "grade_marketsim.py::test_marketsim[Wiki leverage example #1-commission-inputs12-outputs12]": true, 
+  "grade_marketsim.py::test_marketsim[Wiki leverage example #1-leverage-inputs12-outputs12]": true, 
+  "grade_marketsim.py::test_marketsim[Wiki leverage example #2-commission-inputs13-outputs13]": true, 
+  "grade_marketsim.py::test_marketsim[Wiki leverage example #2-leverage-inputs13-outputs13]": true, 
+  "grade_marketsim.py::test_marketsim[Wiki leverage example #3-commission-inputs14-outputs14]": true, 
+  "grade_marketsim.py::test_marketsim[Wiki leverage example #3-leverage-inputs14-outputs14]": true
+}
